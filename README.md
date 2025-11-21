@@ -1,4 +1,6 @@
 # 🧮 Python OOP Calculator v1
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 This repository contains a simple command-line calculator built using **Python Classes and Objects**.  
 The user inputs two numbers, selects an operation, and the calculator performs **Addition**, **Subtraction**, **Division**, or **Multiplication**.
